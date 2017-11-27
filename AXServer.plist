@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/anxin/icon_full_size.png</string>
+					<string>http://120.77.41.241/ipa/anxin/icon_full_size_s.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/anxin/icon_display.png</string>
+					<string>http://120.77.41.241/ipa/anxin/icon_display_s.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
