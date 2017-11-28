@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/youdian/YPClient.ipa</string>
+					<string>http://120.77.41.241/ipa/youdian/YPServer.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/youdian/icon_full_size.png</string>
+					<string>http://120.77.41.241/ipa/youdian/icon_full_size_s.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/youdian/icon_display.png</string>
+					<string>http://120.77.41.241/ipa/youdian/icon_display_s.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>有电客户端</string>
+				<string>有电服务端</string>
 			</dict>
 		</dict>
 	</array>
