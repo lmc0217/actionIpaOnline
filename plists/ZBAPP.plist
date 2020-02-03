@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/youdian/YPClient.ipa</string>
+					<string>https://github.com/lmc0217/actionIpaOnline/tree/master/ipas/ZBAPP.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/youdian/icon_full_size_c.png</string>
+					<string>https://github.com/lmc0217/actionIpaOnline/blob/master/icon/fullsize/180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.77.41.241/ipa/youdian/icon_display_c.png</string>
+					<string>https://github.com/lmc0217/actionIpaOnline/blob/master/icon/display/180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>客户端</string>
+				<string>造班</string>
 			</dict>
 		</dict>
 	</array>
